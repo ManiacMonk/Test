@@ -1,0 +1,6 @@
+<?php 
+include 'siren.php';
+
+echo "siren";
+
+echo "test complete";
