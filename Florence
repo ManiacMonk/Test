@@ -1,0 +1,7 @@
+<?php
+$_Session = FALSE
+
+while($_Session == FALSE){
+  echo "cannot connect";
+  }
+  ?>
