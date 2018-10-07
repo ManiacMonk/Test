@@ -3,5 +3,11 @@ $_Session = FALSE
 
 while($_Session == FALSE){
   echo "cannot connect";
+  
+   
+  }
+  else {
+  echo "could connect";
+  
   }
   ?>
