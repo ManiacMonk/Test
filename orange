@@ -1,0 +1,9 @@
+//setting colour to orange for october
+
+
+*FILE = fopen(orange.generator);
+
+
+*FILE imort CSS moodule_colparser.
+
+$mode = false;
